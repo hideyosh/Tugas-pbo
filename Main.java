@@ -4,7 +4,7 @@ public class Main {
         Handphone[] daftarHandphone = new Handphone[2];
 
         // Mengisi array dengan objek Smartphone dan FeaturePhone
-        daftarHandphone[0] = new Smartphone("Samsung", "Galaxy S21");
+        daftarHandphone[0] = new Smartphone("Xiaomi", "Redmi NOte 8");
         daftarHandphone[1] = new Featuredphone("Nokia", "3310");
 
         // Menggunakan loop untuk memanggil metode secara polimorfik
